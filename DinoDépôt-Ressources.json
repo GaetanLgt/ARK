@@ -1,10 +1,6 @@
 {
   "version": 2,
   "production": [
-
-    /* -------------------------------------------------------------------------- */
-    /*    Achatina – Aberrant : Pâte + Polymère + Petites chances de Fleurs       */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant",
       "chanceToProduce": 1.0,
@@ -37,10 +33,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Ankylosaurus – Aberrant : Cristal + Obsidienne + Gemmes (rare)          */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Ankylosaurus/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant",
       "chanceToProduce": 1.0,
@@ -59,10 +51,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Araneo – Aberrant : Soie + Chitine + Pâte + Venin (rare)                */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Araneo/Araneo_Character_BP_Aberrant.Araneo_Character_BP_Aberrant",
       "chanceToProduce": 1.0,
@@ -86,10 +74,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Doedicurus – Pierre + Silex + Métal + Sable (rare)                      */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP",
       "chanceToProduce": 1.0,
@@ -118,10 +102,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Castoroides – Bois + Branchage + Pâte + Champignons (rare)              */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
       "chanceToProduce": 1.0,
@@ -150,10 +130,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Daeodon – Cuir + Viande + Polymère + Saignement (rare)                  */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP",
       "chanceToProduce": 1.0,
@@ -182,10 +158,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Argentavis – Lingot + Pâte + Plumes (rare)                              */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP",
       "chanceToProduce": 1.0,
@@ -208,10 +180,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Dunkleosteus – Métal + Cristal + Perles + Huile (rare)                  */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP",
       "chanceToProduce": 1.0,
@@ -240,10 +208,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Tusoteuthis – Huile + Perles Noires + Encre (cosmétique)                */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP",
       "chanceToProduce": 1.0,
@@ -266,10 +230,6 @@
         }
       ]
     },
-
-    /* -------------------------------------------------------------------------- */
-    /*    Tek Strider – Poussière + Shards + Elément (rare et contrôlé)           */
-    /* -------------------------------------------------------------------------- */
     {
       "dinoType": "/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP",
       "chanceToProduce": 1.0,
