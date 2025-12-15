@@ -16,7 +16,7 @@
           ]
         },
         {
-          "intervalSeconds": 2880,
+          "intervalSeconds": 3600,
           "itemSelectMode": 0,
           "items": [
             {
@@ -27,6 +27,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Ankylosaurus/Ankylo_Character_BP.Ankylo_Character_BP",
       "chanceToProduce": 1.0,
@@ -43,6 +44,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/Aberration/Dinos/Ankylosaurus/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant",
       "chanceToProduce": 1.0,
@@ -63,6 +65,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Araneo/Araneo_Character_BP.Araneo_Character_BP",
       "chanceToProduce": 1.0,
@@ -90,6 +93,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
       "chanceToProduce": 1.0,
@@ -106,6 +110,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP",
       "chanceToProduce": 1.0,
@@ -122,6 +127,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP",
       "chanceToProduce": 1.0,
@@ -142,6 +148,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP",
       "chanceToProduce": 1.0,
@@ -169,6 +176,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/Aberration/Dinos/Ravager/Ravager_Character_BP.Ravager_Character_BP",
       "chanceToProduce": 1.0,
@@ -186,6 +194,7 @@
         }
       ]
     },
+
     {
       "dinoType": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP",
       "chanceToProduce": 1.0,
@@ -202,6 +211,209 @@
           ]
         }
       ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 300,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone",
+              "quantityPerDino": 25
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 1200,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint",
+              "quantityPerDino": 15
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 3600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal",
+              "quantityPerDino": 10
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 240,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood",
+              "quantityPerDino": 40
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch",
+              "quantityPerDino": 25
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 3600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_CementingPaste.PrimalItemResource_CementingPaste",
+              "quantityPerDino": 5
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 1800,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot",
+              "quantityPerDino": 5
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 2400,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_CementingPaste.PrimalItemResource_CementingPaste",
+              "quantityPerDino": 5
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 900,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal",
+              "quantityPerDino": 15
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 1800,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal",
+              "quantityPerDino": 5
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 2400,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SilicaPearls.PrimalItemResource_SilicaPearls",
+              "quantityPerDino": 10
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 900,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
+              "quantityPerDino": 30
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 3600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
+              "quantityPerDino": 5
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 300,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide",
+              "quantityPerDino": 20
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat",
+              "quantityPerDino": 20
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 3600,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
+              "quantityPerDino": 5
+            }
+          ]
+        }
+      ]
     }
+
   ]
 }
